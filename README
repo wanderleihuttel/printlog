@@ -1,0 +1,3 @@
+A powershell script with a modified task to save windows server print logs in MySQL database.
+
+Basically collect information from event log 307 and 805
