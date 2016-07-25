@@ -1,3 +1,5 @@
 A powershell script with a modified task to save windows server print logs in MySQL database.
 
 Basically collect information from event log 307 and 805
+
+Tutorial complete in www.huttel.com.br/2016/07/salvar-log-de-impressoes-do-windows-server-2012-em-banco-de-dados-mysql
